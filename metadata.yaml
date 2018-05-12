@@ -1,0 +1,27 @@
+_repo: Apotheose-Camoneana_27390
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carvalho, Xavier de
+    birthdate: 1862
+    deathdate: 1919
+    gutenberg_agent_id: '32667'
+    url: http://www.gutenberg.org/2009/agents/32667
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2008-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27390'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Camões, Luís de, 1524?-1580'
+title: Apotheose Camoneana
+url: http://www.gutenberg.org/ebooks/27390
